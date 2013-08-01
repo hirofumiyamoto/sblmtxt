@@ -1,0 +1,16 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"default_line_ending": "unix",
+	"font_size": 11.0,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"scroll_past_end": true,
+	// The number of spaces a tab is considered equal to
+  "tab_size": 2,
+ 
+  // Set to true to insert spaces when tab is pressed
+  "translate_tabs_to_spaces": true
+}
