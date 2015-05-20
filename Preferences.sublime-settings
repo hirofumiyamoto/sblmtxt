@@ -1,15 +1,16 @@
 {
+	"alwayshighlight_pattern": "[　０-９Ａ-Ｚａ-ｚ]",
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
 	"default_line_ending": "unix",
-	"font_size": 11.0,
+	"font_size": 14.0,
+	"fullwhitespace_viewable": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Wordpress",
-		"Emmet"
+		"Vintage"
 	],
 	"scroll_past_end": true,
 	"tab_size": 2,
+	"theme": "Flatland Dark.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
