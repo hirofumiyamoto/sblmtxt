@@ -2,7 +2,8 @@
 	"alwayshighlight_pattern": "[　０-９Ａ-Ｚａ-ｚ]",
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
 	"default_line_ending": "unix",
-	"font_size": 14.0,
+	"font_face": "Ricty",
+	"font_size": 16.0,
 	"fullwhitespace_viewable": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
