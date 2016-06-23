@@ -13,5 +13,6 @@
 	"scroll_past_end": true,
 	"tab_size": 2,
 	"theme": "Flatland Dark.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"draw_white_space": "all"
 }
